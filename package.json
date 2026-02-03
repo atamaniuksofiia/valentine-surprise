@@ -1,0 +1,13 @@
+{
+  "name": "valentine-surprise",
+  "version": "1.0.0",
+  "description": "A sweet Valentine's surprise app",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx live-server --port=3000 --open=index.html",
+    "start": "npx live-server --port=3000 --open=index.html"
+  },
+  "keywords": ["valentine", "love"],
+  "author": "You",
+  "license": "MIT"
+}
